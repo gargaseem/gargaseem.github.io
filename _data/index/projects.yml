@@ -1,22 +1,25 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Campus Automation
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+#  gh_user: jarrekk
+#  repo: Jalpc
+  img: /static/assets/img/landing/php.png
+  desc: It is php based interactive portal that enables the students to register their courses and view marks, grades & ranking in registered courses. Faculty can add courses, marks & evaluation criteria based on which grades are calculated automatically.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Library Management System
+  i18n: jalpc
+  img: /static/assets/img/landing/php.png
+  desc: It is php based interactive portal that provides facility for a user to create a personal account and helps him to search, issue and return books. The whole procedure is managed by an Administrator.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Restaurant Management System
+  i18n: jalpc
+  img: /static/assets/img/landing/android.png
+  desc: The android app provides facility for user to get details of dishes, ratings, placing orders & order history. Administrator can control the functionality of the app through a control panel.
+
+#- name: Google
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+#  desc: This is another project.
